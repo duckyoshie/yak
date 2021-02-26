@@ -1,0 +1,2 @@
+# yak
+A minimal CLI
